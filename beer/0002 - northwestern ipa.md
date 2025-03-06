@@ -1,0 +1,12 @@
+- add 3.0g chinook hops, 12.0g cascade hops, and 1.5 coffeewater mineral packet to 1.5gal of distilled water and boil for 90 minutes
+- filter through cheesecloth
+- add 1lb Breiss CBW Golden Light concentrated brewer's wort, 6.0g chinook and 6.0g cascade hops and boil for 30 minutes
+- filter through cheesecloth
+- replenish from 90floz to 128floz with coffewater+distilled water
+- add 10.0g chinook, 9.8g cascade, and 10.0g centennial hops
+- cover and allow to cool to 98F
+- add 5.0g of BRY-97 yeast
+- allow to cool to room temperature
+- ferment 7 days
+- filter through cheesecloth
+- add 24.6g demerara sugar per gallon remaining, bottle, and age 3-12 weeks
