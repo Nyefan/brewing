@@ -4,6 +4,6 @@
   - add 2.2g BRY-97 yeast
   - specific gravity = 1.065
   - ferment 7 days
-- 2025-03-31
-  - siphon into bottles
-  - age 1-6 months
+- 2025-04-07
+  - specific gravity = 1.049
+  
