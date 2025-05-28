@@ -1,9 +1,13 @@
 - 2025-03-24
   - bring 1qt honey and 1gal distilled water + coffeewater mineral packet to a boil
-  - cover and allow to cool to 98F (resulting 133 fl oz)
+  - cover and allow to cool to 98F
+  - measured 133 fl oz remaining
   - add 2.2g BRY-97 yeast
   - specific gravity = 1.065
-  - ferment 7 days
+  - ferment in a 2 gallon container with an airlock filled with titos vodka
 - 2025-04-07
   - specific gravity = 1.049
-  
+- 2025-05-28
+  - specific gravity = 1.003 (alcohol 8.1%)
+  - siphon into two 64oz brown glass bottles
+  - age with airlock filled with titos vodka
