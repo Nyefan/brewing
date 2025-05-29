@@ -1,0 +1,7 @@
+- 2025-05-28
+  - bring 32oz Ekert's Farm Kentucky Honey, 12oz Meijer Mexican Orange Blossom Honey, and 1gal distilled water + coffeewater mineral packet to a boil
+  - cover and allow to cool to 98F
+  - measured 154 fl oz remaining
+  - add 2.4g rehydrated Lalvin EC-1118 champagne yeast
+  - specific gravity = 1.083
+  - ferment in a 2 gallon container with an airlock filled with titos vodka
