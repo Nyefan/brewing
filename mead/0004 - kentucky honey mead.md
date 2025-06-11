@@ -5,3 +5,21 @@
   - add 2.4g rehydrated Lalvin EC-1118 champagne yeast
   - specific gravity = 1.083
   - ferment in a 2 gallon container with an airlock filled with titos vodka
+- 2025-06-11
+  - specific gravity = 1.051 (4.2%)
+  - specific gravity of water = 0.983
+  - percentage of honey (vol) = 26/154=16.883%
+  - effective starting specific gravity of honey -> 26/154*x + 128/154*0.983 = 1.083 -> x = 1.575
+  - specific gravity of ethanol = 0.7937
+  - ending specific gravity -> sg_w*r_w + sg_h*r_h + sg_e*r_e -> 0.983*128/154 + 1.575*(26-k)/154 + 0.7937*k/154 = 1.051
+  - k = 6.468 (measured <- 0.042*154)?
+  - 1.051*154 - 0.983*128 - 1.575*26 = -0.7813*k
+  - k = 6.297 (calculated)
+  - diff is due to evaporation of ~0.1 fl oz of liquid over the time period - it can be ignored
+  - remaining honey = 26-k = 19.5 fl oz
+  - require 7.5oz honey to bottle condition
+  - density of honey = 1.4 g/ml = 0.049384 oz/ml = 0.049384 oz / 0.0338140227 floz = 1.46 oz / floz
+  - 7.5 oz -> 7.5 / 1.46 = 5.14 fl oz remaining -> desired k = 21.9 -> sg_bottle = 0.972
+  - alternate (measured) density of honey = 1.575*0.983 = 1.548225 g/ml = 0.054612 oz/ml = 1.62 oz / floz
+  - 7.5 oz -> 7.5 / 1.62 = 4.63 fl oz remaining -> desired k = 22.4 -> sg_bottle = 0.969
+  - difference in vol_co2 between measured density of honey and sourced density of honey is ~0.2 - it can be ignored
