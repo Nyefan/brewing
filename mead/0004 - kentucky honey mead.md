@@ -23,3 +23,7 @@
   - alternate (measured) density of honey = 1.575*0.983 = 1.548225 g/ml = 0.054612 oz/ml = 1.62 oz / floz
   - 7.5 oz -> 7.5 / 1.62 = 4.63 fl oz remaining -> desired k = 22.4 -> sg_bottle = 0.969
   - difference in vol_co2 between measured density of honey and sourced density of honey is ~0.2 - it can be ignored
+- 2025-06-25
+  - specific gravity = 1.021 (8.1%) 
+  - estimated time to sg=0.972 ~3weeks
+  - decided to bottle early and then crash out the yeast after 2 weeks, which should yield ~4 volumes of CO2
