@@ -1,8 +1,14 @@
 - 2025-06-26
-    - bring 48oz Flying Bee Ranch Orange Blossom Honey, and 1gal distilled water + coffeewater mineral packet to a boil
-    - cover and allow to cool to 98F
-    - measured 128 fl oz remaining
-    - add 5g rehydrated Lalvin EC-1118 champagne yeast
-    - specific gravity = 1.097
-    - freeze and thaw 1lb of raspberries
-    - ferment with the raspberries in a 2 gallon container with an airlock filled with titos vodka
+  - bring 48oz Flying Bee Ranch Orange Blossom Honey, and 1gal distilled water + coffeewater mineral packet to a boil
+  - cover and allow to cool to 98°F
+  - measured 128 fl oz remaining
+  - add 5g rehydrated Lalvin EC-1118 champagne yeast
+  - specific gravity = 1.097
+  - freeze and thaw 1lb of raspberries
+  - ferment with the raspberries in a 2 gallon container with an airlock filled with titos vodka
+- 2025-07-10
+  - specific gravity = 1.022 (9.8%)
+- 2025-07-24
+  - add 183.6g of assorted honeys (orange blossom, raw, and bourbon barrel aged)
+  - raise to 145°F for 20 minutes to stabilize
+  - siphon into two, half-gallon jugs for aging
