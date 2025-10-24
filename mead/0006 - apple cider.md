@@ -1,0 +1,11 @@
+- 2025-10-23
+  - bring >1.5gal of apple juice to a boil with 2 vanilla pods, 2 ceylon cinnamon sticks, 3 star anise, 15 cloves, a cup of raisins, 10 cardamom pods
+  - add 1.5lb brown sugar
+  - raise to 165°F for 15 minutes
+  - cover and allow to cool to 98°F (keep the spices in the juice)
+  - reduced until 192 fl oz remaining
+  - add 2.5g rehydrated Lalvin EC-1118 champagne yeast
+  - add 1.7g ferm-ade
+  - specific gravity = 1.080@87°F == 1.083@60°F
+  - ferment in a 2 gallon container with an airlock filled with Luksosova vodka
+  - expected abv = 10.9%
