@@ -9,3 +9,7 @@
   - specific gravity = 1.080@87°F == 1.083@60°F
   - ferment in a 2 gallon container with an airlock filled with Luksosova vodka
   - expected abv = 10.9%
+- 2025-11-08
+  - final gravity = 0.99 -> abv = 12.2%
+  - backsweeten remaining 1gal with 10 tbsp maple syrup
+  - top with carbo-caps at 35psi
