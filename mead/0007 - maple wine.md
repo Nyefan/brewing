@@ -2,5 +2,10 @@
   - 1qt kirkland grade a maple syrup + 2.5qts water -> 3.5qts wort with specific gravity of 1.101
   - add 1.4g rehydrated Lalvin EC-1118 champagne yeast
   - add 1.0g ferm-ade
-  - ferment in a 2 gallon container with an airlock filled with Luksosova vodka
+  - ferment in a 2 gallon container with an airlock filled with Luksosowa vodka
   - expected abv = 13.3%
+- 2025-11-23
+  - gravity 1.004
+- 2025-12-07
+  - gravity 1.000 -> abv 13.3%
+  - move to two airlocked half-gallon containers to clarify
